@@ -1,0 +1,9 @@
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\bin\Debug\Chat.Client.exe.config
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\bin\Debug\Chat.Client.exe
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\bin\Debug\Chat.Client.pdb
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\bin\Debug\ServerParam.dll
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\bin\Debug\ServerParam.pdb
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\obj\Debug\Chat.Client.csprojResolveAssemblyReference.cache
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\obj\Debug\Chat.Client.csproj.CoreCompileInputs.cache
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\obj\Debug\Chat.Client.exe
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\Chat.Client\obj\Debug\Chat.Client.pdb

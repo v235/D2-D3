@@ -1,0 +1,6 @@
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\ServerParam\bin\Debug\ServerParam.dll
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\ServerParam\bin\Debug\ServerParam.pdb
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\ServerParam\obj\Debug\ServerParam.csprojResolveAssemblyReference.cache
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\ServerParam\obj\Debug\ServerParam.csproj.CoreCompileInputs.cache
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\ServerParam\obj\Debug\ServerParam.dll
+C:\Users\Vitali_Pimenau\Documents\Visual Studio 2017\Projects\D2-D3\Multithreading.Task\ServerParam\obj\Debug\ServerParam.pdb
