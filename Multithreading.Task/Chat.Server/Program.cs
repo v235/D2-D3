@@ -1,4 +1,5 @@
-﻿using ServerParam;
+﻿using Chat.Server.Providers;
+using ServerParam;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,23 +11,11 @@ namespace Chat.Server
 {
     class Program
     {
-        static ServerObject _server; 
-        static Thread _listenThread;
         static void Main(string[] args)
         {
-            try
-            {
-                Params serverParam = new Params();
-                _server = new ServerObject();
-                _listenThread = new Thread(new ParameterizedThreadStart(_server.StartServer));
-                _listenThread.Start(serverParam);
-            }
-            catch (Exception ex)
-            {
-                _server.Disconnect();
-                Console.WriteLine(ex.Message);
-            }
-
+            Params serverParam = new Params();
+            ServerProvider server = new ServerProvider(serverParam.Adress, serverParam.Port, 10);
+            server.Start();
             Console.ReadKey();
         }
     }

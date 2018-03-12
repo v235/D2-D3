@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chat.Client.OutPut
+namespace ExpressionTree.Task
 {
-    class OutPutProvider:IOutPutProvider
+    class Program
     {
-
+        static void Main(string[] args)
+        {
+        }
     }
 }

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chat.Client.Managers
+namespace Chat.Client.Providers
 {
-    interface IMessageManager
+    internal interface IOutPutProvider
     {
+        void PrintMessage(string message);
     }
 }

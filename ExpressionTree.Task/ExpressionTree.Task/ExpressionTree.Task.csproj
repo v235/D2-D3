@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E703FD62-E377-4C53-9072-55E87FB0D3FF}</ProjectGuid>
+    <ProjectGuid>{3F716F44-B798-4128-B2C1-2840B16AD1EA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chat.Client</RootNamespace>
-    <AssemblyName>Chat.Client</AssemblyName>
+    <RootNamespace>ExpressionTree.Task</RootNamespace>
+    <AssemblyName>ExpressionTree.Task</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,25 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Providers\ClientProvider.cs" />
-    <Compile Include="Events\NewMessageEventArgs.cs" />
-    <Compile Include="Providers\ClientReferee.cs" />
-    <Compile Include="Managers\ClientManager.cs" />
-    <Compile Include="Providers\IOutPutProvider.cs" />
-    <Compile Include="Providers\IWordProvider.cs" />
-    <Compile Include="Providers\OutPutProvider.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Providers\WordProvider.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ServerParam\ServerParam.csproj">
-      <Project>{9bac002c-da94-4261-8dde-1dca26fa1272}</Project>
-      <Name>ServerParam</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
